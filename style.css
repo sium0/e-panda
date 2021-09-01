@@ -38,6 +38,11 @@
 .categories h1{
     color: white;
 }
+.card{
+    border: 2px;
+    border-radius:30px;
+    box-shadow: 5px 5px 10px;
+}
 .categories img{
     width: 100px;
 }
